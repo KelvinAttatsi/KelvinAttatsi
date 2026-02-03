@@ -12,7 +12,6 @@
 
 📫 How to reach me: You can reach out via email at kelvinmhacwilson@gmail.com.  Alternatively, you can also get in touch through my [Portfolio](https://kelvinmhacwilson.netlify.app/).
 
-⚡ Fun fact: Did you know that the most "committed" developers aren't in jail? On GitHub, being committed means something entirely different! It's about making changes and contributions to code. So, keep on committing, and you'll stay out of the coding jail!😅
 
 
 ## ♾️ Tech Stack
